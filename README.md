@@ -11,3 +11,12 @@ Manejo de tipo de variables, cadenas, for, if,  while
 
 -![image](https://github.com/user-attachments/assets/b54e4984-0104-4746-8a24-d192d70b1f66)
 
+## If else
+- Codigo
+- Cuando es verdadero
+  
+-![image](https://github.com/user-attachments/assets/2eb88199-fb57-4c8a-af7c-fb6f65e881f2)
+- Caso falso
+  
+-![image](https://github.com/user-attachments/assets/a017805c-2caf-40ee-b07a-0fc467ea955c)
+
